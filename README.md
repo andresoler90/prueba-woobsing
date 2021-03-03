@@ -24,6 +24,9 @@ Ruta: https://github.com/andresoler90/prueba-woobsing/blob/master/app/Models/Usu
 https://github.com/andresoler90/prueba-woobsing/blob/master/DataWoobsing.sql
 https://github.com/andresoler90/prueba-woobsing/blob/master/querysWoobsing.sql
 
+## Migraciones
+https://github.com/andresoler90/prueba-woobsing/tree/master/database/migrations
+
 ## En el siguiente fragmento de código hay un error, identifique cual es el error y descríbalo junto la solución:
 
 En el array[1] hay error de sintaxis falta la separación por “,”.
